@@ -4,7 +4,7 @@
  📖 Atualmente estudando React e Typescript.</br>
  🚀 Trabalho como desenvolvedor front-end junior na agência Nambbu.</br>
  
- Aqui você encontra um pouco dos meus projetos que estou estudando, caso queira ver meus projetos que estão no ar que foi desenvolvido no trabalho acesse o site:  <a href="https://robsonfmiranda.com">robsonfmiranda.com</a>
+ Aqui você encontra um pouco dos projetos que estou estudando. Caso queira ver os projetos que estão no ar, e que foram desenvolvidos no trabalho acesse o site:  <a href="https://robsonfmiranda.com">robsonfmiranda.com</a>
  
 
  <div>

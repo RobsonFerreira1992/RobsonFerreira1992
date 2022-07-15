@@ -1,7 +1,7 @@
  # Olá, eu sou Robson
- 😉  Sou desenvolvedor front-end </br>
+ 😉  Sou desenvolvedor Front-end </br>
  🎓 Formado em Análise e desenvolvimento de sistemas.</br>
- 🚀 Trabalho como desenvolvedor Front-End na NETVIEW Informática</br>
+ 🚀 Trabalho como desenvolvedor Front-End na Upik - Arquiteto de bolso</br>
  
  Aqui você encontra um pouco dos projetos que estou estudando. Caso queira ver os projetos que estão no ar, e que foram desenvolvidos no trabalho acesse o site:  <a href="https://robsonfmiranda.com">robsonfmiranda.com</a>
  

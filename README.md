@@ -1,5 +1,5 @@
  # Olá, eu sou Robson
- 😉  Sou desenvolvedor Front-end </br>
+ 😉  Sou desenvolvedor Full Stack </br>
  🎓 Formado em Análise e desenvolvimento de sistemas.</br>
  🚀 Trabalho como desenvolvedor Front-End na Upik - Arquiteto de bolso</br>
  
